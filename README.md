@@ -10,7 +10,8 @@ thats pretty simple, just use clang
 rm -rf build && mkdir build && cd build
 
 # Configure, build with Clang, and run
-cmake -DCMAKE_CXX_COMPILER=clang++ ..
+cmake -DCMAKE_CXX_COMPILER=clang++ .. && make && ./id_card
+
 make
 ./id_card
 # i forgot if i put temporary files idk
