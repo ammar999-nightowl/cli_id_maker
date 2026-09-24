@@ -14,7 +14,8 @@ cmake -DCMAKE_CXX_COMPILER=clang++ .. && make && ./id_card
 
 make
 ./id_card
-# i forgot if i put temporary files idk
+# please note that if theres any bug. please report it
+# please do not use ai for contributions
 
-**be happy guys**
+# important:
 **i may make new versions later**
