@@ -17,5 +17,10 @@ make
 # please note that if theres any bug. please report it
 # please do not use ai for contributions
 
-# important:
-**i may make new versions later**
+# important features implemented :
+# v3 latest :
+# added full file save support
+# will be refined later
+# and the code has been 
+# reformatted to be readeable
+# thanks to helix
